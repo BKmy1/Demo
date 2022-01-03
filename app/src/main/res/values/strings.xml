@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_test1">主页</string>
+    <string name="menu_test2">分类</string>
+    <string name="menu_test3">直播</string>
+    <string name="menu_test4">聊天</string>
+    <string name="menu_test5">个人中心</string>
+    <string name="menu_home">主要界面</string>
+    <string name="menu_top1">test1</string>
+    <string name="menu_top2">test2</string>
+    <string name="menu_top3">test3</string>
+    <string name="menu_top4">test4</string>
+    <string name="menu_top5">test5</string>
+</resources>

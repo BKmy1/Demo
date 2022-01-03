@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.demo.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/nav_computer"
+        android:name="com.example.demo.top.Top1Fragment"
+        android:label="@string/menu_top1"
+        tools:layout="@layout/fragment_top1"/>
+    <fragment
+        android:id="@+id/nav_Food"
+        android:name="com.example.demo.top.Top2Fragment"
+        android:label="@string/menu_top2"
+        tools:layout="@layout/fragment_top2">
+    </fragment>
+    <fragment
+        android:id="@+id/nav_fruit"
+        android:name="com.example.demo.top.Top3Fragment"
+        android:label="@string/menu_top3"
+        tools:layout="@layout/fragment_top3">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_phone"
+        android:name="com.example.demo.top.Top4Fragment"
+        android:label="@string/menu_top4"
+        tools:layout="@layout/fragment_top4">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_supermarket"
+        android:name="com.example.demo.top.Top5Fragment"
+        android:label="@string/menu_top5"
+        tools:layout="@layout/fragment_top5">
+    </fragment>
+    <fragment
+        android:id="@+id/viewPageFragment"
+        android:name="com.example.demo.viewPageFragment"
+        android:label="fragment_view_page"
+        tools:layout="@layout/fragment_view_page" />
+
+</navigation>

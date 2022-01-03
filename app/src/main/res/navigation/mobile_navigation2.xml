@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_viewpager">
+
+    <fragment
+        android:id="@+id/navigation_viewpager"
+        android:name="com.example.demo.viewPageFragment"
+        android:label="@string/menu_test1"
+        tools:layout="@layout/fragment_view_page" />
+
+    <fragment
+        android:id="@+id/navigation_classify"
+        android:name="com.example.demo.test2.Test2Fragment"
+        android:label="@string/menu_test2"
+        tools:layout="@layout/fragment_test2" />
+
+    <fragment
+        android:id="@+id/navigation_comment"
+        android:name="com.example.demo.test3.Test3Fragment"
+        android:label="@string/menu_test3"
+        tools:layout="@layout/fragment_test3"/>
+
+    <fragment
+        android:id="@+id/navigation_living"
+        android:name="com.example.demo.test4.Test4Fragment"
+        android:label="@string/menu_test4"
+        tools:layout="@layout/fragment_test4"/>
+    <fragment
+        android:id="@+id/navigation_person"
+        android:name="com.example.demo.test5.Test5Fragment"
+        android:label="@string/menu_test5"
+        tools:layout="@layout/fragment_test5"/>
+
+</navigation>

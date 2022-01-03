@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Demo/app/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_home.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_test1.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_test2.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_test3.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_test4.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_test5.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_top1.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_top2.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_top3.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_top4.xml" value="0.1890625" />
+        <entry key="..\:/android/Demo/app/src/main/res/layout/fragment_top5.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/Demo/app/src/main/res/menu/bottom_menu.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
